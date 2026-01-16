@@ -210,9 +210,7 @@ export default function Portfolio() {
             <p className="text-slate-400 mb-4">Dec 2021 - May 2025 | CGPA: 7.82</p>
             
             <p className="text-lg text-slate-300 leading-relaxed">
-              Passionate software engineer with expertise in backend development, AI/ML, and full-stack applications. 
-              Currently working at GlobalLogic on production-level microservices. Strong foundation in competitive programming 
-              and research, with published work in computer vision and robotics. Love building products that solve real-world problems.
+            Software Engineer with expertise in backend development, machine learning, and full-stack applications.  Currently working at GlobalLogic on production microservices using Java and Spring Boot. Strong foundation in competitive programming (LeetCode Knight, Codeforces Specialist) and research, with published work in embedded systems. Focused on building scalable systems that solve real-world problems.
             </p>
           </div>
         </div>
