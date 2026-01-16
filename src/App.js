@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Github, Linkedin, Mail, Code, Briefcase, Award, GraduationCap, ChevronDown, Menu, X, ExternalLink } from 'lucide-react';
+import { Github, Linkedin, Mail, Code, Briefcase, Award, GraduationCap, ChevronDown, Menu, X} from 'lucide-react';
 import profilePic from './pranav_portfolio.png'; 
 
 export default function Portfolio() {
