@@ -18,14 +18,14 @@ export default function Portfolio() {
       company: "GlobalLogic India Pvt Ltd",
       role: "Software Engineering Trainee",
       period: "Aug 2025 - Present",
-      description: "Working on backend development using Java, Spring Boot, and Microservices architecture. Contributing to live production projects with focus on RESTful APIs and code quality.",
+      description: " Working as a Software Engineering Trainee focusing on backend development using Java, Spring Boot, and Microservices architecture.Gained hands-on experience in designing and developing RESTful APIs, implementing business logic, integrating relational databases, and following industry-standard coding practices Currently contributing to a live production project, assisting in backend module development, debugging, and improving code quality while gaining exposure to real-world software engineering workflows.",
       tech: ["Java", "Spring Boot", "Microservices", "REST APIs"]
     },
     {
       company: "Lutech India Pvt Ltd",
       role: "Product Intern",
       period: "Jun 2024 - Jul 2024",
-      description: "Developed custom chatbot for BharatOnline, fine-tuned LLaMA and BLOOM models for improved response accuracy.",
+      description: "Worked on developing a custom chatbot for the product BharatOnline, where I was responsible for generating a product-specific knowledge base by gathering and preprocessing relevant data and fine-tuning various open-source LLMs, such as LLaMA and BLOOM, to improve the chatbot’s response accuracy and adaptability to the product using this custom knowledge base",
       tech: ["LLMs", "LLaMA", "BLOOM", "NLP"]
     }
   ];
@@ -34,21 +34,21 @@ export default function Portfolio() {
     {
       name: "IMU Sensor Based Remote Physiotherapy",
       period: "Aug 2024 - Mar 2025",
-      description: "Digital physiotherapy system using ESP32 and MPU-6050 sensors for real-time motion analysis. Published in CVR 2025 proceedings.",
+      description: "Collaborated in a team of 5 to develop a ReactJS, NodeJS-based digital physiotherapy system that tracks shoulder and knee exercises using ESP32 and MPU-6050 sensors for real-time motion analysis. Implemented real-time wireless data transmission using WebSockets and UDP to stream tilt angles and compute repetition counts, enabling precise detection of valid/invalid reps and efficiency scoring. This system was validated by a physiotherapist at the VNIT Health Centre. The research paper based on this project was accepted at the 5th International Conference on Computer Vision and Robotics, organized by the National Institute of Technology Goa (April 25–26, 2025), and later published in the book ComputerVision and Robotics – Proceedings of CVR 2025, Volume 2",
       tech: ["React.js", "Node.js", "ESP32", "WebSockets", "IoT"],
       highlight: "Published Research Paper"
     },
     {
       name: "MyResume - Resume Rating App",
       period: "Sept 2024 - Nov 2024",
-      description: "AI-powered resume evaluation platform using Deep Learning and NLP, integrated with Llama 3.2 for personalized suggestions.",
+      description: "Created MyResume, a ReactJS and Flask-based application that evaluates resumes against job descriptions and required skills, assigning a score out of 10 using Deep Learning and NLP. Integrated Llama 3.2 to generate personalized improvement suggestions and provide users with updated resumes aligned with the Job Description and the skills required for the role.",
       tech: ["React.js", "Flask", "Deep Learning", "NLP", "Llama 3.2"],
       highlight: "AI-Powered"
     },
     {
       name: "MockMate - AI Interview Platform",
       period: "Jun 2024 - Jul 2024",
-      description: "Mock interview platform with 100+ dynamically generated questions, NLP-based evaluation scoring responses in 2 seconds.",
+      description: " Built an AI-powered mock interview platform using Next.js, PostgreSQL, supporting 10+ job roles, 3+ experience levels, and 100+ dynamically generated interview questions per session via Google Gemini API.Designed an NLP-based evaluation pipeline that scores responses across relevance, clarity, and technical depth and generates actionable feedback within 2 seconds, reducing manual interview preparation time by around 80%",
       tech: ["Next.js", "PostgreSQL", "Gemini API", "Clerk"],
       highlight: "80% Time Reduction"
     }
@@ -64,7 +64,7 @@ export default function Portfolio() {
   const achievements = [
     { text: "LeetCode Rating: 1756", detail: "Rank 861/30000+ in Weekly Contest 491" },
     { text: "Codeforces Rating: 1439 (Specialist)", detail: "Active competitive programmer" },
-    { text: "CodeChef Rating: 3 star(1636)", detail: "Maharashtra state exam" },
+    { text: "CodeChef Rating: 3 star(1636)", detail: "Rank 247 in Codechef starters 221" },
     { text: "JEE Mains 2021: 99.24%ile", detail: "Top 1% nationwide" }
 
   ];
